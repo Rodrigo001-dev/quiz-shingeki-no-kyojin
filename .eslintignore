@@ -1,0 +1,13 @@
+
+/node_modules
+/.pnp
+.pnp.js
+
+/*.js
+
+.next
+/out/
+
+/build
+
+.vercel

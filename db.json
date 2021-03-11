@@ -1,0 +1,45 @@
+{
+  "bg": "https://articles.gamerheadquarters.com/images/top10/movies/10.jpg",
+  "title": "Título do Quiz",
+  "description": "Descrição do seu quiz",
+  "questions": [
+    {
+      "image": "https://placehold.it/400x400",
+      "title": "Questão numero 1",
+      "description":"Descrição da questão numero 01",
+      "answer": 1,
+      "Alternativas": [
+        "Alternativa A",
+        "Alternativa B",
+        "Alternativa C",
+        "Alternativa D"
+      ]
+    },
+    {
+      "image": "https://placehold.it/400x400",
+      "title": "Questão numero 2",
+      "description":"Descrição da questão numero 02",
+      "answer": 2,
+      "Alternativas": [
+        "Alternativa A",
+        "Alternativa B",
+        "Alternativa C",
+        "Alternativa D"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-v2.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#4CAF50",
+      "secondary": "#FF9800",
+      "mainBg": "#1C1814",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}

@@ -35,6 +35,9 @@
     "arrow-parens": "off",
     "implicit-arrow-linebreak": "off",
     "react/jsx-props-no-spreading": "off",
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "jsx-a11y/anchor-has-content": "off",
+    "jsx-a11y/control-has-associated-label": "off",
+    "react/jsx-one-expression-per-line": "off"
   }
 }

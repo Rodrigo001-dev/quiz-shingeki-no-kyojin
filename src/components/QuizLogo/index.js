@@ -5,13 +5,17 @@ import styled from 'styled-components';
 function Logo() {
   return (
     <>
-      <a href="https://www.alura.com.br" target="_blank" rel="noreferrer">
+      <a
+        href="https://www.google.com/search?sxsrf=ALeKk01NgFp6IqMs650A6bH1dySDC6t6Mg%3A1615777451952&ei=q85OYIHZOY7W5OUPnLGuwAM&q=the+legend+of+zelda&oq=the+legend+of+zelda&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAguEEMyBwguELEDEEMyBAguEEMyBAguEEMyBAguEEMyBAguEEMyBAguEEMyBwguELEDEEMyBAguEEM6CggAELADEEMQiwM6DQguELADEMgDEEMQiwM6BwguECcQkwI6BAguECc6CAguELEDEIMBOgQIABBDOgIIADoFCC4QsQM6CgguEOoCECcQkwI6BwguEOoCECc6BwgjEOoCECc6CQgjEOoCECcQE0oFCDgSATFQqL4BWLGVAmCllwJoAnACeACAAdEBiAGKCpIBBTAuOS4xmAEAoAEBqgEHZ3dzLXdperABCsgBDrgBAsABAQ&sclient=gws-wiz&ved=0ahUKEwjB2ryIqLHvAhUOK7kGHZyYCzgQ4dUDCA0&uact=5"
+        target="_blank"
+        rel="noreferrer"
+      >
         <svg
           version="1.0"
           xmlns="http://www.w3.org/2000/svg"
-          width="200.000000pt"
+          width="300.000000pt"
           height="90.000000pt"
-          viewBox="0 0 791.000000 341.000000"
+          viewBox="0 0 791.000000 241.000000"
           preserveAspectRatio="xMidYMid meet"
         >
           <g

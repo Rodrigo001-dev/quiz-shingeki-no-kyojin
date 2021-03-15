@@ -12,6 +12,7 @@ import { Widget } from '../components/Widget';
 import QuizBackground from '../components/QuizBackground';
 import Footer from '../components/Footer';
 import GitHubCorner from '../components/GitHubCorner';
+import Input from '../components/Input';
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -57,12 +58,12 @@ export default function Home() {
                 router.push(`/quiz?name=${name}`);
               }}
             >
-              <input
+              <Input
                 type="text"
+                name="nome do usuário"
                 placeholder="Digite seu nome"
-                onChange={event => {
-                  setName(event.target.value);
-                }}
+                value={name}
+                onChange={event => setName(event.target.value)}
               />
               <button type="submit" disabled={name.length === 0}>
                 Jogar {name}

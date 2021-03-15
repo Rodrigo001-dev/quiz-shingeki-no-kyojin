@@ -5,6 +5,7 @@ import styled from 'styled-components';
 const FooterWrapper = styled.footer`
   background-color: #00000070;
   padding: 20px;
+  margin-bottom: 16px;
   display: flex;
   align-items: center;
   border-radius: 4px;
@@ -26,7 +27,7 @@ const FooterWrapper = styled.footer`
   }
 `;
 
-export default function Footer(props) {
+export default function Footer() {
   return (
     <FooterWrapper>
       <a href="https://www.github.com/Rodrigo001-de">

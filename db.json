@@ -16,15 +16,51 @@
       ]
     },
     {
-      "image": "https://placehold.it/400x400",
-      "title": "Questão numero 2",
-      "description":"Descrição da questão numero 02",
-      "answer": 2,
+      "image": "https://media1.tenor.com/images/4e3475a86e9d543ee32f0c26cdf660b3/tenor.gif?itemid=20241291",
+      "title": "Qual o nome do capitão da tropa de exploração",
+      "description":"Essa é fácil",
+      "answer": 0,
       "alternatives": [
-        "Alternativa A",
-        "Alternativa B",
-        "Alternativa C",
-        "Alternativa D"
+        "Erwin Smith",
+        "Levi Ackerman",
+        "Mikasa Ackerman",
+        "Armin Arlert"
+      ]
+    },
+    {
+      "image": "https://pm1.narvii.com/7156/216c5f1d208117949381365f335ab12e26f2fadbr1-640-960v2_hq.jpg",
+      "title": "Quais os 9 titãs fundadores criados pela Ymir Fritz",
+      "description":"Essa é nível médio",
+      "answer": 3,
+      "alternatives": [
+        "Titã TATAKAE, Colossal, Titã Mulher, Bestial, Blindado, Boca Grande, Quadrúpede, Titã Martelo de Guerra e Titã Fundador",
+        "Titã Fêmea, Titã Fundador, Titã de Ataque, Quadrúpede, Blindão, Bestial, Mandíbula, Colosso e Titã Martelo de Guerra",
+        "Colossal, Titã Fêmea, Blindado, Titã Macaco, Titã Fundador, Mandíbula, Titã Martelo de Guerra, Quadrúpede e Titã de Ataque",
+        "Titã Fundador, Titã de Ataque, Colossal, Titã Fêmea, Blindado, Bestial, Mandíbula, Quadrúpede e Titã Martelo de Guerra"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/7206/2f6cec79eb25bd109638ba76e975d049252e077cr1-600-338_hq.gif",
+      "title": "Qual o personagem mais BRABO do anime",
+      "description":"Quem assistiu sabe",
+      "answer": 1,
+      "alternatives": [
+        "Mikasa Ackerman",
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Eren Yeager"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/6ec2a61fb96d0d1024f2bd43a3b713a3/tenor.gif",
+      "title": "Quem é o 'par romântico' do protagonista",
+      "description":"Essa eu nem preciso falar",
+      "answer": 3,
+      "alternatives": [
+        "Annie Leonhart",
+        "Hange Zoë",
+        "Carla Yeager",
+        "Mikasa Ackerman"
       ]
     }
   ],

@@ -125,7 +125,6 @@ function QuestionWidget({
             Confirmar
           </Button>
 
-          <p>{`${selectedAlternative}`}</p>
           {isQuestionSubmited && isCorrect && <p>Você acertou!!</p>}
           {isQuestionSubmited && !isCorrect && <p>Você errou!!</p>}
         </AlternativesForm>
@@ -149,8 +148,8 @@ export default function QuizPage() {
 
   const question = db.questions[questionIndex];
 
-  function addResult() {
-    setResults([...results, results]);
+  function addResult(result) {
+    setResults([...results, result]);
   }
 
   useEffect(() => {

@@ -1,18 +1,18 @@
 {
-  "bg": "https://articles.gamerheadquarters.com/images/top10/movies/10.jpg",
-  "title": "Quiz - the legend of Zelda",
+  "bg": "https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/5ee34a1a83cb3e001d40a6f2.jpg",
+  "title": "Quiz - Shingeki no Kyojin",
   "description": "Descrição do seu quiz",
   "questions": [
     {
-      "image": "https://placehold.it/400x400",
-      "title": "Questão numero 1",
-      "description":"Descrição da questão numero 01",
-      "answer": 1,
-      "Alternativas": [
-        "Alternativa A",
-        "Alternativa B",
-        "Alternativa C",
-        "Alternativa D"
+      "image": "https://i0.wp.com/www.alternativanerd.com.br/wp-content/uploads/2019/02/AN_Attack-on-Titan.jpeg?fit=1200%2C660&ssl=1&resize=350%2C200",
+      "title": "Qual o nome da divisão responsavel por enfrentar os Titãs fora da muralha?",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+      "Divisão Ataque aos Titãs",
+      "Divisão de Guarnição ",
+      "Divisão de Reconhecimento",
+      "Divisão da Polícia Militar"
       ]
     },
     {
@@ -20,7 +20,7 @@
       "title": "Questão numero 2",
       "description":"Descrição da questão numero 02",
       "answer": 2,
-      "Alternativas": [
+      "alternatives": [
         "Alternativa A",
         "Alternativa B",
         "Alternativa C",
@@ -33,11 +33,11 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#4CAF50",
-      "secondary": "#FF9800",
+      "primary": "#006400",
+      "secondary": "#000080",
       "mainBg": "#1C1814",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
+      "wrong": "#120A8F",
       "success": "#4CAF50"
     },
     "borderRadius": "4px"

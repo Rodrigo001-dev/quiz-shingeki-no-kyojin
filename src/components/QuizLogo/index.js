@@ -6,7 +6,7 @@ function Logo() {
   return (
     <>
       <a
-        href="https://www.google.com/search?sxsrf=ALeKk01NgFp6IqMs650A6bH1dySDC6t6Mg%3A1615777451952&ei=q85OYIHZOY7W5OUPnLGuwAM&q=the+legend+of+zelda&oq=the+legend+of+zelda&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAguEEMyBwguELEDEEMyBAguEEMyBAguEEMyBAguEEMyBAguEEMyBAguEEMyBwguELEDEEMyBAguEEM6CggAELADEEMQiwM6DQguELADEMgDEEMQiwM6BwguECcQkwI6BAguECc6CAguELEDEIMBOgQIABBDOgIIADoFCC4QsQM6CgguEOoCECcQkwI6BwguEOoCECc6BwgjEOoCECc6CQgjEOoCECcQE0oFCDgSATFQqL4BWLGVAmCllwJoAnACeACAAdEBiAGKCpIBBTAuOS4xmAEAoAEBqgEHZ3dzLXdperABCsgBDrgBAsABAQ&sclient=gws-wiz&ved=0ahUKEwjB2ryIqLHvAhUOK7kGHZyYCzgQ4dUDCA0&uact=5"
+        href="https://www.google.com/search?q=shingeki+no+kyojin&oq=shingeki+no+kyojin&aqs=chrome..69i57j46i433j69i59l3j69i60j69i61j69i60.3080j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
         rel="noreferrer"
       >

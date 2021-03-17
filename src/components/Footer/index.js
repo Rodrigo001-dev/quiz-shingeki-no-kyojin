@@ -27,9 +27,9 @@ const FooterWrapper = styled.footer`
   }
 `;
 
-export default function Footer() {
+export default function Footer(props) {
   return (
-    <FooterWrapper>
+    <FooterWrapper {...props}>
       <a href="https://www.github.com/Rodrigo001-de">
         <img
           src="https://media-exp1.licdn.com/dms/image/C4D03AQHNbXe8srzXoQ/profile-displayphoto-shrink_200_200/0/1592671000196?e=1620864000&v=beta&t=lGGti75wrdubV9E246sj1tzWzKNgi3P53vzAVxada8U"

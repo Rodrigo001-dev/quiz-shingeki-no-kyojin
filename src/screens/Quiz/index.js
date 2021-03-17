@@ -4,7 +4,6 @@ import React, { useEffect, useState } from 'react';
 // import db from '../../../db.json';
 
 import { Widget } from '../../components/Widget';
-import QuizLogo from '../../components/QuizLogo';
 import QuizBackground from '../../components/QuizBackground';
 import QuizContainer from '../../components/QuizContainer';
 import AlternativesForm from '../../components/AlternativesForm';
@@ -144,11 +143,11 @@ export default function QuizScreen({ externalQuestions, externalBg }) {
   const [results, setResults] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const questionIndex = currentQuestion;
-  const totalQuestions = externalQuestions.questions.length;
+  const totalQuestions = externalQuestions.length;
 
   const background = externalBg;
 
-  const question = externalQuestions.questions[questionIndex];
+  const question = externalQuestions[questionIndex];
 
   function addResult(result) {
     setResults([...results, result]);
@@ -173,8 +172,6 @@ export default function QuizScreen({ externalQuestions, externalBg }) {
   return (
     <QuizBackground backgroundImage={background}>
       <QuizContainer>
-        <QuizLogo />
-
         {screenState === screenStates.QUIZ && (
           <QuestionWidget
             question={question}

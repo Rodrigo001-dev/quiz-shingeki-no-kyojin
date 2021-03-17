@@ -66,7 +66,12 @@
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
-    "https://aluraquiz-marvel.omariosouto.vercel.app/"
+    "https://aluraquiz-marvel.omariosouto.vercel.app/",
+    "https://flash-quiz-next.davidlpc1.vercel.app",
+    "https://harry-potter-quiz.lucianoweslen11.vercel.app",
+    "https://breaking-bad-quiz.eliasnepo.vercel.app/",
+    "https://lolzinquiz-git-main.bernardooficial.vercel.app/",
+    "https://quiz-imersao-react.olucasalves.vercel.app/"
   ],
   "theme": {
     "colors": {
